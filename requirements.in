@@ -1,0 +1,12 @@
+# Dependency candidates inferred from source imports; not a verified environment.
+# Install a platform-compatible PyTorch build separately; capture a tested lock after validation.
+torch
+numpy
+pandas
+matplotlib
+datasets
+scikit-learn
+scipy
+nltk
+jupyterlab
+tqdm
